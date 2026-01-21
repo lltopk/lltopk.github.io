@@ -8,8 +8,8 @@ He is currently employed.
 Email: liuyanoutsee@outlook.com
 
 #### Education
-M.E., Computer Technology, China LZU, 2020—2023.\
-B.E., Software Engineering, China ZZU, 2016—2020.
+M.E., Computer Technology, China LanZhou University, 2020—2023.\
+B.E., Software Engineering, China ZhengZhou University, 2016—2020.
 
 #### Research Interests
 Java, JavaScript, C++, Python
