@@ -12,4 +12,4 @@ M.E., Computer Technology, China LZU, 2020—2023.\
 B.E., Software Engineering, China ZZU, 2016—2020.
 
 #### Research Interests
-software development
+Java, JavaScript, C++, Python
