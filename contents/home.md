@@ -14,6 +14,6 @@ B.E., Software Engineering, China ZhengZhou University, 2016—2020.
 #### Research Interests
 Java, JavaScript, C++, Python
 
-Algorithm && Engineering && Systemic architecture
+Algorithm && Engineering && Systemic Architecture
 
 
