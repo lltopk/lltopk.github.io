@@ -13,7 +13,7 @@ Bachelor. Software Engineering. ZZU 2016—2020.
 Systemic Architecture && Algorithm && AI
 
 
-#### Occupational history
+#### Professional History
 
 ..
 
